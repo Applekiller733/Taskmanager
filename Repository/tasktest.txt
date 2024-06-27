@@ -1,0 +1,4 @@
+Generic task,open,-1
+Complex task,open,-1
+Simple task,in progress,10
+Very Difficult task,open,-1

@@ -1,0 +1,4 @@
+Vlad Boghitoi,6
+Carmen,8
+Relu,10
+Titi,99
